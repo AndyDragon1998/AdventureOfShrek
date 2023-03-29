@@ -1,0 +1,19 @@
+/*****************************************************************************/
+/*  Author        : Дракончик												 */
+/*  Machine       : Sony PlayStation 2										 */
+/*  OS		  	  : OSDSYS													 */
+/*  Language      : GNU C                                                    */
+/*                                                                           */
+/*  File Contents : GAME STATE MUSIC AUDIO AND VARIABLE DEFINED VALUES       */
+/*  File Attribute: DEFINED	                                              	 */
+/*  File Name     : gameState.def                                            */
+/*                                                                           */
+/*****************************************************************************/
+
+#define BACKGROUND "/Graphics/Background/background_image.png"
+
+#define TITLEMUSICPATH "/Audio/BGM/KimLightyearFriends.wav"
+
+#define PLAYER "/Graphics/Images/shrek_character.png"
+
+#define OBSTACLE "/Graphics/Images/fire.png"

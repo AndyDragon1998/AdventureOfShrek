@@ -1,0 +1,17 @@
+/*****************************************************************************/
+/*  Автор         		: Дракончик				                             */
+/*  Приставка     		: Sony PlayStation 2					             */
+/*  ОС			  		: OSDSYS											 */
+/*  Язык	      		: GNU C                                              */
+/*                                                                           */
+/*  Содержимое файла	: Наружние переменние и структури gameState.c файла  */
+/*  Атрибут файла		: EXTERNAL                                           */
+/*  Имя файла     		: gameState.ext	                                     */
+/*                                                                           */
+/*****************************************************************************/
+
+extern StateMachine GameMachineState;
+
+extern Controller PlaystationGamePad;
+
+extern char relativePath[];
